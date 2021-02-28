@@ -1,5 +1,0 @@
-Ноутбук с примером использования модуля - https://colab.research.google.com/drive/1jBxWWTjUdamiJbXjBCMXaAW9wNSpYy22?usp=sharing
-
-Ноутбук с примером обучения сети - https://colab.research.google.com/drive/1oUbNl6c-fLbmihgy36N9gz1kIPTlCige?usp=sharing
-
-
